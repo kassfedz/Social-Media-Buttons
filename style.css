@@ -104,6 +104,16 @@
   background:#3b5998
 }
 
+/*Google Plus*/
+.btn-google:hover > i,.btn-google:focus > i 
+{
+  color:#d34836
+}
+
+.btn-google > span {
+  background:#d34836
+}
+
 /*Twitter*/
 .btn-twitter:hover > i,.btn-twitter:focus > i 
 {
@@ -115,17 +125,6 @@
   background:#00aced
 }
 
-/*LinkedIn*/
-.btn-linkedin:hover > i,.btn-linkedin:focus > i 
-{
-  color:#007bb6
-}
-
-.btn-linkedin > span 
-{
-  background:#007bb6
-}
-
 /*Pinterest*/
 .btn-pinterest:hover > i,.btn-pinterest:focus > i 
 {
@@ -135,6 +134,17 @@
 .btn-pinterest > span 
 {
   background:#cb2027
+}
+
+/*LinkedIn*/
+.btn-linkedin:hover > i,.btn-linkedin:focus > i 
+{
+  color:#007bb6
+}
+
+.btn-linkedin > span 
+{
+  background:#007bb6
 }
 
 /*Instagram*/
